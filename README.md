@@ -1,2 +1,3 @@
-# Turnio.nl-Toernooimatch.nl
-de downloadbare apps voor 1 van deze site's
+   # Turnio – downloads
+   Installatiebestanden van Turnio voor Windows en Mac. Kies hiernaast onder **Releases** de nieuwste versie.
+   Meer informatie: https://www.turnio.nl
